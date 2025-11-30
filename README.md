@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" height="auto"/>
+</div>
 # 🙋🏻 About Me:
 🔭 I’m currently working on Developing  high-performance backend using Python and JavaScript and modern concurrency patterns.<br>👯 I’m looking to collaborate on an open-source Agentic AI framework or a challenging, large-scale system design project.<br>🤝 I’m looking for help with Deep dives into optimizing C++ template metaprogramming or fine-tuning DevOps CI/CD pipelines for better efficiency.<br>🌱 I’m currently learning Advanced Kubernetes orchestration and exploring the latest developments in Next.js server-side rendering (SSR) architectures.<br>💬 Ask me about Optimizing latency in backend systems, scaling web apps with the MERN/NEXT stack, or the principles of effective system design.<br>⚡ Fun fact : I once spent an entire weekend optimizing a single C++ algorithm to shave off a few milliseconds, and it felt like winning a championship.
 
