@@ -1,4 +1,5 @@
 # 🙋🏻 About Me:
+[![Portfolio](https://img.shields.io/badge/🚀_View_Interactive_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-s-portfolio-beta.vercel.app)
 🔭 I’m currently working on Developing  high-performance backend using Python and JavaScript and modern concurrency patterns.<br>👯 I’m looking to collaborate on an open-source Agentic AI framework or a challenging, large-scale system design project.<br>🤝 I’m looking for help with Deep dives into optimizing C++ template metaprogramming or fine-tuning DevOps CI/CD pipelines for better efficiency.<br>🌱 I’m currently learning Advanced Kubernetes orchestration and exploring the latest developments in Next.js server-side rendering (SSR) architectures.<br>💬 Ask me about Optimizing latency in backend systems, scaling web apps with the MERN/NEXT stack, or the principles of effective system design.<br>⚡ Fun fact : I once spent an entire weekend optimizing a single C++ algorithm to shave off a few milliseconds, and it felt like winning a championship.
 
 
